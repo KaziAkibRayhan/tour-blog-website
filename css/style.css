@@ -1,0 +1,29 @@
+.blog-heading{
+    text-align: center;
+    font-size: 50px;
+    color: #5e6262;
+    font-weight: 700;
+}
+.tour-box{
+    background-color: rgb(162, 230, 233);
+    margin: 20px;
+    padding: 15px;
+    border: 5px solid rgb(78, 78, 110);
+    border-radius: 10px;
+}
+.tour-box h2{
+    text-align: center;
+    color: #5b7da8;
+    font-size: 35px;
+}
+.tour-box p{
+    text-align: justify;
+    color: rgb(241, 121, 121);
+    font-size: 18px;
+}
+.authur-title{
+    color: #5b7da8;
+}
+.img-banner{
+    width: 30%;
+}
